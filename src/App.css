@@ -12,8 +12,8 @@ body, html {
 
 .navbar {
 /*    overflow: hidden;*/
-  background-color: black;
-  opacity: 0.5;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* opacity: 0.5; */
   position: fixed;
   display: flex;
   top: 0;

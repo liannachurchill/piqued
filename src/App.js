@@ -61,9 +61,7 @@ function App() {
   return (
     <Router><ScrollToTop>
     <div className="App">
-      <header>
-        <NavBar />
-      </header>
+      <NavBar />
 
       <div className="content">
       <Switch>
