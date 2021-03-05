@@ -12,7 +12,7 @@ export default () => {
       <h1>Store</h1>
       <br />
       <div class="store">
-        <p>Email <a href="mailto:contact@piqued.band">contact@piqued.band</a> for any purchase inquiries.</p>
+        <p>Email <a href="mailto:piquedmassachusetts@gmail.com">contact us</a> for any purchase inquiries.</p>
       </div>
       <div class="merch">
         <figure><img src={merch4} alt="Piqued Black Logo T-Shirt" />
